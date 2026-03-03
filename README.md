@@ -24,4 +24,4 @@ Curious by nature, creative by instinct, and driven by the belief that technolog
 - Expanding my expertise in advanced LLM orchestration and Agentic AI workflows.
 
 ---
-📫 **Let's Connect:** [LinkedIn](#) | [Portfolio](#) | ✉️ your.email@example.com
+📫 **Let's Connect:** [LinkedIn](#) | [Portfolio](#) | ✉️ Milantiwari2003@gmail.com
