@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Milan Tiwari
 
-🏅 **AWS Certified Cloud Practitioner** 🎓 Software Developer | Python & AI Enthusiast | Cinematic Thinker  
+🏅 [**AWS Certified Cloud Practitioner**](https://www.credly.com/badges/b35aa5d6-1038-4887-9d40-8ae8798f4ad9/public_url) 🎓 Software Developer | Python & AI Enthusiast | Cinematic Thinker  
 📍 Based in Dabra, Madhya Pradesh, India  
 
 ---
@@ -41,7 +41,7 @@ Curious by nature, creative by instinct, and driven by the idea of using technol
 
 ## 🎓 Certifications
 
-* AWS Certified Cloud Practitioner
+* [AWS Certified Cloud Practitioner](https://www.credly.com/badges/b35aa5d6-1038-4887-9d40-8ae8798f4ad9/public_url)
 * The Joy of Computing using Python — NPTEL (IIT Ropar)
 * Salesforce Developer Virtual Internship
 * Salesforce Developer Catalyst — NASSCOM
