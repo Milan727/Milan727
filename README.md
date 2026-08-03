@@ -1,60 +1,79 @@
 # 👋 Hey there, I'm Milan Tiwari
 
-🏅 [**AWS Certified Cloud Practitioner**](https://www.credly.com/badges/b35aa5d6-1038-4887-9d40-8ae8798f4ad9/public_url) 🎓 Software Developer | Python & AI Enthusiast | Cinematic Thinker  
-📍 Based in Dabra, Madhya Pradesh, India  
+<p align="center">
+  <a href="https://github.com/Milan727">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=D4FF00&background=121316&width=435&lines=Software+Engineer;AI-Agentic+Developer;Python+%26+Cloud+Specialist" alt="Typing SVG" />
+  </a>
+</p>
+
+### 🏅 AWS Certified Cloud Practitioner | Software Engineer | AI-Agentic Architect
+📍 Based in Dabra, MP, India  
+💼 Open for **Internships** & **Full-Time Software Roles** globally  
 
 ---
 
 ## 🧠 About Me
 
-I’m a Computer Science Engineer (2025 graduate) with a deep interest in Python programming, AI models, and machine learning. I love building smart solutions — from face recognition systems to interactive e-learning platforms. 
-
-Curious by nature, creative by instinct, and driven by the idea of using technology to make life better.
+I am a Software Engineer specializing in building autonomous AI-Agentic pipelines, secure cloud systems, and enterprise business automation. I focus on developing scalable cloud storage architectures, hybrid RAG search engines, and process automations utilizing modern LLM APIs.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Tooling
 
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | Python, JavaScript, HTML, CSS, SQL |
-| **Frameworks & Tools** | OpenCV, Salesforce (Apex, Visualforce, Lightning), Pandas, NumPy |
-| **Domains** | Machine Learning, AI, Web Development, Data Analysis |
+### 🐍 Languages & AI Engineering
+*   **Languages**: Python, SQL, JavaScript (ES6+), HTML5, CSS3 Tokens
+*   **AI & Agents**: AI-Agentic Coding, LLMs & RAG, Vector DBs (ChromaDB), Tool-Calling (Composio, MCP)
+*   **Libraries**: Pydantic, OpenCV, rank_bm25, Pandas, NumPy
 
----
+### ☁️ Cloud, Databases & DevOps
+*   **Cloud Platforms**: Amazon Web Services (AWS Certified Cloud Practitioner)
+*   **Services**: AWS S3 & Pre-Signed URLs, Cloud Firestore, Firebase Auth, REST APIs
+*   **Tools**: Git & GitHub, Vercel, VS Code, Linux/Bash CLI
 
-## 🚀 Projects
-
-* **SkyStore: Secure Cloud Vault** — Built a personal cloud storage application featuring real-time upload tracking, secure signed-URL access, and instant resource management.
-* **Face Recognition with OpenCV** — A real-time face recognition system built using Python and OpenCV, optimized with Haar Cascade Classifiers and LBP for security-based authentication.
-* **AI ChatBot** — An NLP-powered chatbot using machine learning for context-aware, real-time conversations.
-* **E-Learning Platform** — An online learning system with video lectures, quizzes, and progress tracking crafted for smooth accessibility and scalability.
-
----
-
-## 🏆 Achievements
-
-* 🥇 **1st Place** – RGPV University-Level Photography Competition
-* 🎤 **Team Member, TEDx RGPV** – Handled event coordination and speaker logistics
+### ⚡ Enterprise Salesforce Ecosystem
+*   **Backend**: Apex (Controllers, Triggers, Batch, Queueable), SOQL / SOSL
+*   **Frontend**: Lightning Web Components (LWC), HTML/JS, Visualforce
+*   **Automation**: Salesforce Flows, Approval Processes, Process Builder
 
 ---
 
-## 🎓 Certifications
+## 🚀 Featured Repositories & Projects
 
-* [AWS Certified Cloud Practitioner](https://www.credly.com/badges/b35aa5d6-1038-4887-9d40-8ae8798f4ad9/public_url)
-* The Joy of Computing using Python — NPTEL (IIT Ropar)
-* Salesforce Developer Virtual Internship
-* Salesforce Developer Catalyst — NASSCOM
-* Google AI/ML Virtual Internship
-
----
-
-## 💬 Connect With Me
-
-* 📧 **Email:** [milantiwari2003@gmail.com](mailto:milantiwari2003@gmail.com)
-* 💼 **LinkedIn:** [Milan Tiwari](https://www.linkedin.com/in/milantiwariofficial)
-* 📸 **Instagram:** [@cinematic.milan](https://instagram.com/cinematic.milan) *(Because a little creativity never hurts!)*
+*   🤖 **[Composio Product Ops Research Agent](https://github.com/Milan727/composio-product-ops-assignment)** — Automated research pipeline querying the Gemini API to analyze 100 enterprise apps for auth mechanics, credentials access, and AI toolkit buildability.
+*   🔍 **[SHL Assessment Recommendation System](https://github.com/Milan727/SHL-Assessment-Recommendation-System)** — Hybrid RAG engine (FastAPI + Streamlit + ChromaDB + BM25 + Gemini LLM) achieving 100% Recall@10.
+*   ☁️ **[SkyStore: Secure Cloud Vault](https://github.com/Milan727/Cloud-Project)** — Full-stack personal cloud storage featuring S3 pre-signed URL uploads, Firebase Auth, and Firestore tenant isolation.
+*   ⚡ **[EduConsultPro Salesforce CRM](https://github.com/Milan727/Salesforce-CRM-for-Institutions-Project)** — Admissions and case consulting Salesforce app featuring custom Apex logic and automated Flows.
 
 ---
 
-> **“Code with logic, create with heart.” ❤️**
+## 📊 GitHub Metrics & Insights
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Milan727&show_icons=true&theme=nord&count_private=true" alt="Milan's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Milan727&layout=compact&theme=nord" alt="Milan's top languages" />
+</p>
+
+---
+
+## 🏆 Achievements & Certifications
+
+*   🏅 **AWS Certified Cloud Practitioner** — Amazon Web Services ([Validation URL](https://www.credly.com/badges/b35aa5d6-1038-4887-9d40-8ae8798f4ad9/public_url))
+*   🐍 **The Joy of Computing using Python** — NPTEL (IIT Ropar)
+*   ⚡ **Salesforce Developer Virtual Internship** — SmartInternz
+*   🎓 **B-Tech in Computer Science** — ITM Gwalior (2021 – 2025)
+
+---
+
+## 💬 Connect & Collaborate
+
+*   📧 **Email**: [sysadmin.milan@gmail.com](mailto:sysadmin.milan@gmail.com)
+*   💼 **LinkedIn**: [/in/milantiwariofficial](https://www.linkedin.com/in/milantiwariofficial/)
+*   🐦 **X (Twitter)**: [@heyymilan](https://x.com/heyymilan)
+*   🌐 **Portfolio Website**: [https://milan727.github.io](https://milan727.github.io)
+
+---
+
+> **“Code with logic, engineer with scale.”** ⚡
