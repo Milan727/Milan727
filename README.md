@@ -49,11 +49,11 @@ I am a Software Engineer specializing in building autonomous AI-Agentic pipeline
 ## 📊 GitHub Metrics & Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Milan727&show_icons=true&theme=nord&count_private=true" alt="Milan's GitHub stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Milan727&show_icons=true&theme=nord&count_private=true" alt="Milan's GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Milan727&layout=compact&theme=nord" alt="Milan's top languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Milan727&layout=compact&theme=nord" alt="Milan's top languages" />
 </p>
 
 ---
