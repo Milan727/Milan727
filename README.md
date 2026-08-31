@@ -71,7 +71,7 @@ I am a Software Engineer specializing in building autonomous AI-Agentic pipeline
 
 *   📧 **Email**: [sysadmin.milan@gmail.com](mailto:sysadmin.milan@gmail.com)
 *   💼 **LinkedIn**: [/in/milantiwariofficial](https://www.linkedin.com/in/milantiwariofficial/)
-*   🐦 **X (Twitter)**: [@heyymilan](https://x.com/heyymilan)
+*   🐦 **X (Twitter)**: [@git.milan](https://x.com/git.milan)
 *   🌐 **Portfolio Website**: [https://milantiwari.in](https://milantiwari.in)
 
 ---
